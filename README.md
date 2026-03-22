@@ -39,23 +39,6 @@ I am a developer with a focus on building robust, practical applications. I enjo
 </p>
 
 ---
-
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadvitmore&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="Aadvit's GitHub Stats" height="190px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadvitmore&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Aadvit's Top Languages" height="190px" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aadvitmore&theme=dark&hide_border=true" alt="Aadvit's GitHub Streak" />
-</p>
-
----
-
-### Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
-</p>
-
----
 <div align="center">
   <em>&copy; Aadvit More 2026</em>
 </div>
