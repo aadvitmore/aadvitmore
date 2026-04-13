@@ -43,7 +43,6 @@ I am a developer with a focus on building robust, practical applications. I enjo
 ### GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=aadvitmore&theme=merko&hide_border=true" alt="Aadvit's GitHub Streak" />
-  <img src="https://github-readme-stats.shion.dev/api?username=aadvitmore&theme=merko&hide_border=true&include_all_commits=true&count_private=true" alt="Aadvit's GitHub Stats" height="190px" />
 </p>
 
 ---
